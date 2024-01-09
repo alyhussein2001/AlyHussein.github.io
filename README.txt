@@ -1,30 +1,12 @@
-Dimension by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Personal Portfolio for Aly
 
-
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Welcome to my personal portfolio website, a showcase of my journey as a dedicated data analytics
+student. Crafted with HTML and CSS, this site reflects my passion for transforming raw data into
+meaningful insights. The homepage introduces visitors to my skills, experiences, and projects, 
+offering a glimpse into my analytical prowss. The clean and intuitive design ensures easy
+navigation, with a dedicated 'Projects' section delving into detailed case studies, demonstrating my
+proficiency in data visualiation tools and statistical analysis. The 'About Me' page provides a 
+personal touch, highlighting my academic background, professional aspirations, and the
+enthusiasm that drives my pursuit of data excellence. I invite you to explore my portfolio and
+witness firsthand the intersection of my technical skills and analytical mindset, encapsulated in this 
+meticulously designed website.
